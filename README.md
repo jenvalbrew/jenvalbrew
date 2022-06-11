@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jenvalbrew
 - 👀 I’m interested in learning something new
 - 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on nothing right now ... not ready yet.
-- 📫 How to reach me right here.
+- 💞️ I’m not looking to collaborate on anthing right now ... not ready yet.
+- 📫 How to reach me ... right here.
 
 <!---
 jenvalbrew/jenvalbrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
